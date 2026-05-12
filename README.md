@@ -25,9 +25,9 @@ The dataset used in this project is the **Breast Cancer Wisconsin Diagnostic Dat
 
 # Technologies Used:
 
-## Programming Language: Python
-## Platform: Databricks
-## Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow / Keras
+Programming Language: Python
+Platform: Databricks
+Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow / Keras
 
 ---
 
